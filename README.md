@@ -17,7 +17,7 @@ agent and a notification will be sent to the customer.
 complaint with a description of the problem they are facing.  Each user will be assigned
 with an agent.  They can view the status of their complaint.
 
-#PROBLEM STATEMENT
+# PROBLEM STATEMENT
 
   Customer care is a way of dealing with customers when they interact with your
 brand, products, or services. This Application has been developed to help the customer
@@ -30,6 +30,17 @@ the status of the ticket till the service is provided.
 with a description of the problem they are facing. Each user will be assigned an agent.
 They can view the status of their complaint. The main roles and responsibilities of the
 admin is to take care of the whole process.
+
+
+# Demo link:https://drive.google.com/file/d/1c40LL5wwoXQZ-lmQ21iEzhfCOjBtj-  TM/view?usp=drivesdk
+
+
+# TEAM MEMBERS
+Muthukumar S(Team Lead)
+Gukan S
+Navien V
+Sureshkumar R
+
 
 
 
