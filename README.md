@@ -36,10 +36,13 @@ admin is to take care of the whole process.
 
 
 # TEAM MEMBERS
-Muthukumar S(Team Lead)
-Gukan S
-Navien V
-Sureshkumar R
+*Muthukumar S(Team Lead)
+
+*Gukan S
+
+*Navien V
+
+*Sureshkumar R
 
 
 
