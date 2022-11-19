@@ -1,6 +1,6 @@
 #                                                                 CUSTOMER CARE REGISTRY
-#                                                              IBM-Project-1511-1658393002
-# PROJECT OVERVIEW
+##                                                              IBM-Project-1511-1658393002
+### PROJECT OVERVIEW
  
   This Application has been developed to help the customer in processing their
 complaints. The customers can raise the ticket with a detailed description of the issue.
@@ -17,7 +17,7 @@ agent and a notification will be sent to the customer.
 complaint with a description of the problem they are facing.  Each user will be assigned
 with an agent.  They can view the status of their complaint.
 
-# PROBLEM STATEMENT
+### PROBLEM STATEMENT
 
   Customer care is a way of dealing with customers when they interact with your
 brand, products, or services. This Application has been developed to help the customer
@@ -32,10 +32,11 @@ They can view the status of their complaint. The main roles and responsibilities
 admin is to take care of the whole process.
 
 
-# Demo link:https://drive.google.com/file/d/1c40LL5wwoXQZ-lmQ21iEzhfCOjBtj-  TM/view?usp=drivesdk
+### Demo link:https://drive.google.com/file/d/1c40LL5wwoXQZ-lmQ21iEzhfCOjBtj-  TM/view?usp=drivesdk
 
 
-# TEAM MEMBERS
+### TEAM MEMBERS
+
 *Muthukumar S(Team Lead)
 
 *Gukan S
